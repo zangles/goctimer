@@ -32,7 +32,7 @@ $events = [
        ],
        [
            'title' => 'Guild Bandit',
-           'start' => '19:00:00'
+           'start' => '18:00:00'
        ],
        [
            'title' => 'Guild Banquet',
@@ -70,7 +70,7 @@ $events = [
         ],
         [
             'title' => 'Guild Bandit',
-            'start' => '19:00:00'
+            'start' => '18:00:00'
         ],
         [
             'title' => 'Guild Banquet',
@@ -108,7 +108,7 @@ $events = [
         ],
         [
             'title' => 'Guild Bandit',
-            'start' => '19:00:00'
+            'start' => '18:00:00'
         ],
         [
             'title' => 'Guild Banquet',
@@ -146,7 +146,7 @@ $events = [
         ],
         [
             'title' => 'Guild Bandit',
-            'start' => '19:00:00'
+            'start' => '18:00:00'
         ],
         [
             'title' => 'Guild Banquet',
@@ -184,7 +184,7 @@ $events = [
         ],
         [
             'title' => 'Guild Bandit',
-            'start' => '19:00:00'
+            'start' => '18:00:00'
         ],
         [
             'title' => 'Guild Banquet',
@@ -230,7 +230,7 @@ $events = [
         ],
         [
             'title' => 'Guild Bandit',
-            'start' => '19:00:00'
+            'start' => '18:00:00'
         ],
         [
             'title' => 'Guild Banquet',
@@ -276,7 +276,7 @@ $events = [
         ],
         [
             'title' => 'Guild Bandit',
-            'start' => '19:00:00'
+            'start' => '18:00:00'
         ],
         [
             'title' => 'Guild Banquet',
