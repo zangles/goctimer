@@ -49,18 +49,6 @@ $events = [
     ],
     'Tue' => [
         [
-            'title' => 'HOSTING TESTING 1',
-            'start' => '00:30:00'
-        ],
-        [
-            'title' => 'HOSTING TESTING 2',
-            'start' => '00:40:00'
-        ],
-        [
-            'title' => 'HOSTING TESTING 3',
-            'start' => '00:50:00'
-        ],
-        [
             'title' => 'Beast Rampage',
             'start' => '11:00:00'
         ],
