@@ -57,6 +57,10 @@ $events = [
             'start' => '00:40:00'
         ],
         [
+            'title' => 'HOSTING TESTING 3',
+            'start' => '00:50:00'
+        ],
+        [
             'title' => 'Beast Rampage',
             'start' => '11:00:00'
         ],
