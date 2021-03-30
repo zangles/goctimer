@@ -6,7 +6,7 @@ use RestCord\DiscordClient;
 
 date_default_timezone_set('America/Bogota');
 
-$discord = new DiscordClient(['token' => 'ODI2MjM3NDIzNjQ1MjI5MDY3.YGJjkA.XLrw3Kv37mB18ngzpZKg4gp6NKk']); // Token is required
+$discord = new DiscordClient(['token' => $_ENV["TOKEN"]]); // Token is required
 
 $events = [
     'Mon' => [ //lunes
