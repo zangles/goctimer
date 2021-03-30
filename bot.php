@@ -306,6 +306,7 @@ $events = [
 ];
 
 
+
 //var_dump($discord->channel->getChannel(['channel.id'=>826252870738247723]));
 
 obtenerEventoActivo($events, $discord);
