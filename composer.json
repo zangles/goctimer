@@ -1,0 +1,7 @@
+{
+    "name": "fsdfasd",
+    "require": {
+        "team-reflex/discord-php": "^5.1",
+        "restcord/restcord": "^0.5.0"
+    }
+}
