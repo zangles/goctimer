@@ -322,7 +322,7 @@ function obtenerEventoActivo($events, $discord)
     }
     
     $ultimo = getLastEventExecuted();
-    if ($ultimo != $lastEvent) {
+    if ($ultimo != $lastEvent and $lastEvent != '') {
         //ejecutar llamado
         $discord->channel->createMessage(['channel.id'=>826287411902283826, 'content'=>'@everyone 10 minutes until the event: ' . $lastEvent]);
         echo $lastEvent;
