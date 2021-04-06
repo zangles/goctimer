@@ -49,10 +49,6 @@ $events = [
     ],
     'Tue' => [
         [
-            'title' => 'testing just ignore it',
-            'start' => '0:10:00'
-        ],
-        [
             'title' => 'Beast Rampage',
             'start' => '11:00:00'
         ],
