@@ -49,6 +49,10 @@ $events = [
     ],
     'Tue' => [
         [
+            'title' => 'testing just ignore it',
+            'start' => '0:10:00'
+        ],
+        [
             'title' => 'Beast Rampage',
             'start' => '11:00:00'
         ],
@@ -325,6 +329,7 @@ function obtenerEventoActivo($events, $discord)
     if ($ultimo != $lastEvent and $lastEvent != '') {
         //ejecutar llamado
         $discord->channel->createMessage(['channel.id'=>826287411902283826, 'content'=>'@everyone 10 minutes until the event: ' . $lastEvent]);
+        $discord->channel->createMessage(['channel.id'=>828834350782087261, 'content'=>'@everyone 10 minutes until the event: ' . $lastEvent]);
         echo $lastEvent;
         saveLastEventExecuted($lastEvent);
     }
