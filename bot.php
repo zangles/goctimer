@@ -192,7 +192,7 @@ $events = [
         ],
         [
             'title' => 'Guild Realm',
-            'start' => '20:30:00'
+            'start' => '20:00:00'
         ],
         [
             'title' => 'Starmoon Battlefield',
