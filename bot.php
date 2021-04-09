@@ -9,7 +9,7 @@ date_default_timezone_set('America/Bogota');
 $discord = new DiscordClient(['token' => $_ENV["TOKEN"]]); // Token is required
 
 $events = [
-    'Mon' => [ //lunes
+    'Mon' => [ // lunes
        [
            'title' => 'Beast Rampage.',
            'start' => '11:00:00'
