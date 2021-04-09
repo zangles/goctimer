@@ -11,7 +11,7 @@ $discord = new DiscordClient(['token' => $_ENV["TOKEN"]]); // Token is required
 $events = [
     'Mon' => [ //lunes
        [
-           'title' => 'Beast Rampage',
+           'title' => 'Beast Rampage.',
            'start' => '11:00:00'
        ],
        [
@@ -49,7 +49,7 @@ $events = [
     ],
     'Tue' => [
         [
-            'title' => 'Beast Rampage',
+            'title' => 'Beast Rampage.',
             'start' => '11:00:00'
         ],
         [
@@ -87,7 +87,7 @@ $events = [
     ],
     'Wed' => [
         [
-            'title' => 'Beast Rampage',
+            'title' => 'Beast Rampage.',
             'start' => '11:00:00'
         ],
         [
@@ -125,7 +125,7 @@ $events = [
     ],
     'Thu' => [
         [
-            'title' => 'Beast Rampage',
+            'title' => 'Beast Rampage.',
             'start' => '11:00:00'
         ],
         [
@@ -163,7 +163,7 @@ $events = [
     ],
     'Fri' => [
         [
-            'title' => 'Beast Rampage',
+            'title' => 'Beast Rampage.',
             'start' => '11:00:00'
         ],
         [
@@ -205,7 +205,7 @@ $events = [
     ],
     'Sat' => [
         [
-            'title' => 'Beast Rampage',
+            'title' => 'Beast Rampage.',
             'start' => '11:00:00'
         ],
         [
@@ -251,7 +251,7 @@ $events = [
     ],
     'Sun' => [
         [
-            'title' => 'Beast Rampage',
+            'title' => 'Beast Rampage.',
             'start' => '11:00:00'
         ],
         [
