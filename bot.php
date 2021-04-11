@@ -237,7 +237,7 @@ $events = [
             'start' => '19:30:00'
         ],
         [
-            'title' => 'Guild War',
+            'title' => 'Abyss Lord',
             'start' => '20:30:00'
         ],
         [
